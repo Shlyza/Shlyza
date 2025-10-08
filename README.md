@@ -23,8 +23,8 @@ I'm eager to connect with professionals, mentors, and peers in data science, cyb
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/varelsza) 
 
-
 ## 💻 Technologies & Tools
+
 <p align="left"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
@@ -39,15 +39,17 @@ I'm eager to connect with professionals, mentors, and peers in data science, cyb
 
 <div align="center">
   <a href="https://github.com/Shlyza">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shlyza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Varel's GitHub Stats" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shlyza&layout=compact&theme=dracula" alt="Varel's Top Languages" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shlyza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=1800" alt="Varel's GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shlyza&layout=compact&theme=dracula&cache_seconds=1800" alt="Varel's Top Languages" />
   </a>
 </div>
 
 ## 🔥 GitHub Streak
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shlyza&theme=dracula" alt="Varel's GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Shlyza&theme=dracula" alt="Varel's GitHub Streak" />
 </p>
 
 ---
+
 ⭐ Don't forget to star repositories you find interesting!
