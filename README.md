@@ -35,15 +35,6 @@ I'm eager to connect with professionals, mentors, and peers in data science, cyb
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="visual studio" width="40" height="40"/>
 </p>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/Shlyza">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shlyza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=1800" alt="Varel's GitHub Stats" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shlyza&layout=compact&theme=dracula&cache_seconds=1800" alt="Varel's Top Languages" />
-  </a>
-</div>
-
 ## 🔥 GitHub Streak
 
 <p align="center">
