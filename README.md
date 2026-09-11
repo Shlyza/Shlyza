@@ -8,7 +8,7 @@
 
 > *"Keep Smiling"*
 
-As a third semester Informatics student, I'm driven by a deep curiosity for the diverse fields within technology. My journey is just beginning, but my enthusiasm knows no bounds!
+As a Informatics student, I'm driven by a deep curiosity for the diverse fields within technology. My journey is just beginning, but my enthusiasm knows no bounds!
 
 ### 🚀 My Learning Path
 
